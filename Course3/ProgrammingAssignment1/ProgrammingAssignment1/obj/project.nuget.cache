@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7JJ8mzuQL7OJJ9Dg8q8kdgpLnYeMTqx2/xqOKGWKVkSBEVubK6zeMtu5hnW9bfkjTyn/C5N2W1j29hqeugSIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\POP\\Desktop\\UoC Courses\\ProgrammingAssignments\\Course3\\ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\POP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\POP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\POP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\POP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
